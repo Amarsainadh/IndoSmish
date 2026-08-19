@@ -1,7 +1,9 @@
 # Smishing Detection Beyond English Benchmarks
 
 A research-oriented study on **SMS phishing (smishing) detection beyond traditional English benchmarks**, focusing on code-mixed and Romanized Indic languages, dataset leakage, language models, adversarial robustness, and resource-efficient on-device inference.
+# IndoSmish: A Benchmark Framework for Code-Mixed Indian-Language Smishing Detection with Resource-Efficient Language Models
 
+👉 **[🚀 Live Demo](https://indosmish-cid.vercel.app/)**
 ## Overview
 
 Smishing is a form of phishing delivered through SMS, where attackers use deceptive messages to encourage users to click malicious links, reveal credentials, make payments, call numbers, or perform other unsafe actions.
